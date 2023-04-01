@@ -1,0 +1,6 @@
+black-#000000
+yellowish beige-#F3C786
+white-#FFFFFF
+Brown-#412718
+semi brown-#7E5020
+beige-#eaded6
